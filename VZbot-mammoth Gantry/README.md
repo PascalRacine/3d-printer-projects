@@ -9,4 +9,4 @@ VZ bot website: https://github.com/VzBoT3D/VzBoT-Vz330 for the VZ 330
 <a href="https://a360.co/4iu8HhW" rel="nofollow">Full CNC AWD Vz-330</a>
 
 
-https://github.com/mammoth-3D/Mammoth-FDM-MODs?tab=readme-ov-file
+<a href="https://github.com/mammoth-3D/Mammoth-FDM-MODs?tab=readme-ov-file" rel="nofollow">Mammoth Website</a>
