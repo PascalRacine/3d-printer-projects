@@ -1,1 +1,1 @@
-electronics projects
+electronics projects for the enclosure/back panel
