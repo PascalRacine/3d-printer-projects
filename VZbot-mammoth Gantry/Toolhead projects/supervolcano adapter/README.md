@@ -7,6 +7,9 @@ wanted to run a supervolcano block on the toolhead.
 Been told that i could just get a goliath but i figured it would be different.
 Tried initially to get the mount made out of stainless steel but had issues with heat creep.
 
+On the negative sides, the part is so bulky in the back that it's eating through the SLS nylon printed duct.
+Also, it heatcreeps after 280Celcius, added titanium washers and changed the screws for titanium without any success.
+
 Tested an intermediate by opening it up with my .5 inch belted sander
 ![image](https://github.com/user-attachments/assets/a781eaf0-1b3f-464d-ac0a-753e08f9a4dc)
 
