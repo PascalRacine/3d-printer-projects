@@ -1,4 +1,5 @@
-Worked on the RSCS remake by A1,
+Worked on the RSCS remake by A1, point was to make the RSCS work internally with the Wobblex, 
+will probably do an external RSCS at some point to enable bigger insulation and cross braces.
 redid the bottom part for printability after mine broke off:
 ![image](https://github.com/user-attachments/assets/f86626ab-3852-4cfb-82b2-4d7a4b229f75)
 
