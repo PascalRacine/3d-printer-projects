@@ -18,7 +18,7 @@ finalized the design:
 
 Made a titanium body from PCBway
 ![image](https://github.com/user-attachments/assets/aecc14e2-3091-45ce-8f61-04b8be8a6231)
-
+Need to test more for cooling performance, i feel like the air bumps should be good enough to direct the airflow downwards
 looks good, no more heatcreep at 320Celcius for Polymaker tough PC, which is a good thing.
 
 I imagine that it would just be possible to stack titanium washers to a degree that the stainless mount would be feasible, but i do not know how to calculate that.
