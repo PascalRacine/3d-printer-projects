@@ -26,4 +26,4 @@ looks good, no more heatcreep at 320Celcius for Polymaker tough PC, which is a g
 
 I imagine that it would just be possible to stack titanium washers to a degree that the stainless mount would be feasible, but i do not know how to calculate that.
 in the mean time, i figured that a way to make this affordeable would be to have a composite mount that would be part SS, part titanium.
-If the part would be lasercut out of titanium, it would reduce the cost significantly.
+If the part would be lasercut out of titanium, it would reduce the cost significantly, hopefully lower then 40 USD total.
