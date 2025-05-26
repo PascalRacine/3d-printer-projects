@@ -2,6 +2,9 @@ Notes about the supervolcano
 Little of a crazy project, 
 wanted to run a supervolcano block on the toolhead.
 
+![image](https://github.com/user-attachments/assets/27f7252a-5e5e-483e-8d86-7d0939d35f70)
+
+
 ![image](https://github.com/user-attachments/assets/da82fee4-7452-450b-a475-0427ca3df029)
 
 Been told that i could just get a goliath but i figured it would be different.
