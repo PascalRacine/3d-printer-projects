@@ -17,5 +17,8 @@ for the box:
 2x 6x3mm voron-sized, or thinner 6x1.5mm disk magnets- optional but can be used to help secure desiccant boxes.
 some TPU filament or similar material for a gasket for the dry box and hygrometer
 the associated hardware and prints for the spool model linked above
+
+Made some TPU plugs for the M4 holes i wont be using until i change the printer.
+Made the 4mm holes for mounting it centered on the panel once i do.
 <img width="769" height="834" alt="image" src="https://github.com/user-attachments/assets/246fd2a7-5d4c-47a0-a381-805ea630d26b" />
 
