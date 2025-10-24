@@ -5,6 +5,10 @@
 
 <br>What i am aiming to get is a reliable printer that can be left alone as much as possible.<br/>
 
+
+<br>Here's an explanation of encoders and how they determine how fast and how far they went:<br/>
+<br>https://support.maxongroup.com/hc/en-us/articles/360005962273-Encoder-channels-A-and-B-phase-shift-and-direction-of-rotation<br/>
+
 <br>Here's the board that i think will solve this:<br/>
 <img width="1025" height="1028" alt="image" src="https://github.com/user-attachments/assets/094b5a26-f10e-4035-8999-0634cea5a399" />
 <br>https://docs.isiks.tech/Ouroboros/wiring/#ouroboros-mounts<br/>
