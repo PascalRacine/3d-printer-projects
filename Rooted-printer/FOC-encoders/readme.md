@@ -11,9 +11,9 @@ https://docs.isiks.tech/Ouroboros/wiring/#ouroboros-mounts
 
 https://store.isiks.tech/products/ouroboros?srsltid=AfmBOopr4pi4mo20UeJUNsTH3nM9AsWao0WHm25iKk0g93gxetIMRrwa
 
-I can easily integrate the board with encoders and long shaft steppers by using seperate encoders:
+<br>I can easily integrate the board with encoders and long shaft steppers by using seperate encoders:
 GHB38 5/6/8mm Inner Hole Semi-hollow Shaft Rotary Encoder Pulse Output 100~2000PPR
-The GHB38 are rated to 85 degree celcius.
+The GHB38 are rated to 85 degree celcius.<br/>
 <img width="1010" height="784" alt="image" src="https://github.com/user-attachments/assets/bfcd0b76-cddd-4ff1-a6ad-c88e62a69de2" />
 
 https://www.aliexpress.com/item/4001204485874.html
