@@ -51,7 +51,11 @@ runout_gcode:<br />
 &nbsp;&nbsp;&nbsp;    M118 Filament empty<br />
 insert_gcode:</p>
 
-
+<p>Tests:<br />
+I confirmed the functionality of the sensor by unplugging the sensor while filament was in, it turned from detected, to empty on klipper.<br />
+This confirms that it's reliable enough in case of a failure, which was one of the frustrations i had with other filament sensors.<br />
+This will open the door to have 2 included into the toolhead</p>
+  
 <img width="459" height="756" alt="image" src="https://github.com/user-attachments/assets/6f86f711-c1e5-4c7d-98e0-1ac642e53f28" />
 
 <img width="682" height="568" alt="image" src="https://github.com/user-attachments/assets/29664ed1-466d-445d-b54e-757056359ea6" />
