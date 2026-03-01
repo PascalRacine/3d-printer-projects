@@ -46,8 +46,8 @@ this is the klipper configuration:</p>
 switch_pin: ^!PF2<br />
 pause_on_runout: True<br />
 runout_gcode:<br />
-    SET_IDLE_TIMEOUT TIMEOUT=7200 ; Increase idle timeout<br />
-    M118 Filament empty<br />
+&nbsp;    SET_IDLE_TIMEOUT TIMEOUT=7200 ; Increase idle timeout<br />
+&nbsp;    M118 Filament empty<br />
 insert_gcode:</p>
 
 
