@@ -1,15 +1,15 @@
 Filament sensor using an IR sensor with a 5mm gap.
 The sensor enables enough plastic mass in the middle to properly clean the hole with reamers.
 
-<p>Tools to get:</p>
-<p>2mm Reamer</p>
-<p>4mm reamer</p>
-<p>M10 bottoming tap (not really required)</p>
+<p>Tools to get:<br />
+2mm Reamer<br />
+4mm reamer<br />
+M10 bottoming tap (not really required)</p>
 
-<p>Hardware to get</p>
-<p>m2.5 12mm long screws</p>
-<p>m2.5 hex nut</p>
-<p>sensor:</p>
+<p>Hardware to get:<br />
+m2.5 12mm long screws<br />
+m2.5 hex nut<br />
+sensor:</p>
 <p>-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-SX3164-P2/6946429</p>
 <p>-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-5002-1M/8124128</p>
 <p>There are other 5mm sensor in the same brand, you need the 5vDC version(ideally you got a 3pin sensor on your board that has 5v rather then 3.3v):</p>
