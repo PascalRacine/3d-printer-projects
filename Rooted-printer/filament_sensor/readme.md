@@ -1,14 +1,21 @@
 Filament sensor using an IR sensor with a 5mm gap.
 The sensor enables enough plastic mass in the middle to properly clean the hole with reamers.
-
+<br />
+<br />
+<br />
 <p>Tools to get:<br />
-2mm Reamer<br />
-4mm reamer<br />
-M10 bottoming tap (not really required)</p>
-
+-2mm Reamer;<br />
+-4mm reamer; and<br />
+-M10 bottoming tap. (not really required)</p>
+<br />
+<br />
+<br />
 <p>Hardware to get:<br />
 m2.5 12mm long screws<br />
 m2.5 hex nut<br />
+<br />
+<br />
+<br />
 sensor:</p>
 <p>-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-SX3164-P2/6946429</p>
 <p>-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-5002-1M/8124128</p>
