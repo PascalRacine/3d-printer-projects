@@ -8,16 +8,16 @@ The sensor enables enough plastic mass in the middle to properly clean the hole 
 <br />
 <p>Hardware to get:<br />
 m2.5 12mm long screws<br />
-m2.5 hex nut<br />
+m2.5 hex nut</p>
 <br />
-sensor:</p>
-<p>-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-SX3164-P2/6946429</p>
-<p>-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-5002-1M/8124128</p>
-<p>There are other 5mm sensor in the same brand, you need the 5vDC version(ideally you got a 3pin sensor on your board that has 5v rather then 3.3v):</p>
+<p>sensor:<br />
+-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-SX3164-P2/6946429<br />
+-https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/EE-5002-1M/8124128</p>
+<p>There are other 5mm sensor in the same brand, you need the 5vDC version(ideally you got a 3pin sensor on your board that has 5v rather then 3.3v):<br />
 <img width="1293" height="662" alt="image" src="https://github.com/user-attachments/assets/3f072c6e-2eb5-43ee-b6aa-209dbecc00d0" />
-<img width="172" height="202" alt="image" src="https://github.com/user-attachments/assets/2daddfbe-a517-4d5a-b38f-15d620607ab4" />
+<img width="172" height="202" alt="image" src="https://github.com/user-attachments/assets/2daddfbe-a517-4d5a-b38f-15d620607ab4" /></p>
 <p>The sensor is rated from -20C to 85C
-this is the pinout for the sensor:</p>
+this is the pinout for the sensor:<br />
 <img width="1242" height="810" alt="image" src="https://github.com/user-attachments/assets/95d0a1e9-3da6-4e51-b135-09d4dbb0c776" />
 
 Connector:
