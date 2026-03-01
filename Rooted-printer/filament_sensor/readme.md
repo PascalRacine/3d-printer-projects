@@ -20,35 +20,35 @@ m2.5 hex nut</p>
 this is the pinout for the sensor:<br />
 <img width="1242" height="810" alt="image" src="https://github.com/user-attachments/assets/95d0a1e9-3da6-4e51-b135-09d4dbb0c776" />
 
-Connector:
-if you want to get the connector and pin it yourself, but i would recommend the pre-crimped cables:
-https://www.digikey.ca/en/products/detail/jst-sales-america-inc/GHR-03V-S/807815?s=N4IgTCBcDaIOIAkBKBaADAZgGooMoAIQBdAXyA
-the cheapest and lowest amount of pins to buy is in packs of 100 tho
-https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SSHL-002T-P0-2/27687535
+<p>Connector:<br />
+if you want to get the connector and pin it yourself, but i would recommend the pre-crimped cables:<br />
+https://www.digikey.ca/en/products/detail/jst-sales-america-inc/GHR-03V-S/807815?s=N4IgTCBcDaIOIAkBKBaADAZgGooMoAIQBdAXyA <br />
+the cheapest and lowest amount of pins to buy is in packs of 100 tho<br />
+https://www.digikey.ca/en/products/detail/jst-sales-america-inc/SSHL-002T-P0-2/27687535 <br />
 
 
 
 
-fitting:
-either: 
--M10 coupler for 4mm ptfe tube or;
--ecas04 fitting
+<p>fitting:<br />
+either: <br />
+-M10 coupler for 4mm ptfe tube or;<br />
+-ecas04 fitting</p>
 
-I got a BTT EZ-Max board which gives me endstop pins with 5VDC
-<img width="313" height="67" alt="image" src="https://github.com/user-attachments/assets/34185f81-6a57-4b89-b46c-262b57f64135" />
+<p>I got a BTT EZ-Max board which gives me endstop pins with 5VDC
+<img width="313" height="67" alt="image" src="https://github.com/user-attachments/assets/34185f81-6a57-4b89-b46c-262b57f64135" /></p>
 
-When testing the sensor with a 5v DC power source, i get 0.7V or 0V.
-this is the klipper configuration:
+<p>When testing the sensor with a 5v DC power source, i get 0.7V or 0V.
+this is the klipper configuration:</p>
 
-Please let me know if you got a better klipper config for this.
+<p>Please let me know if you got a better klipper config for this.</p>
 
-[filament_switch_sensor switch_sensor]
-switch_pin: ^!PF2
-pause_on_runout: True
-runout_gcode:
-    SET_IDLE_TIMEOUT TIMEOUT=7200 ; Increase idle timeout
-    M118 Filament empty
-insert_gcode:
+<p>[filament_switch_sensor switch_sensor]
+switch_pin: ^!PF2<br />
+pause_on_runout: True<br />
+runout_gcode:<br />
+    SET_IDLE_TIMEOUT TIMEOUT=7200 ; Increase idle timeout<br />
+    M118 Filament empty<br />
+insert_gcode:</p>
 
 
 <img width="459" height="756" alt="image" src="https://github.com/user-attachments/assets/6f86f711-c1e5-4c7d-98e0-1ac642e53f28" />
