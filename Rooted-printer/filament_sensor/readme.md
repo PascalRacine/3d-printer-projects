@@ -18,7 +18,8 @@ m2.5 hex nut</p>
 <img width="172" height="202" alt="image" src="https://github.com/user-attachments/assets/2daddfbe-a517-4d5a-b38f-15d620607ab4" /></p>
 <p>The sensor is rated from -20C to 85C
 this is the pinout for the sensor:<br />
-<img width="1242" height="810" alt="image" src="https://github.com/user-attachments/assets/95d0a1e9-3da6-4e51-b135-09d4dbb0c776" />
+<img width="1323" height="1032" alt="image" src="https://github.com/user-attachments/assets/a1833004-981b-4142-a27e-0df881802736" />
+
 
 <p>Connector:<br />
 if you want to get the connector and pin it yourself, but i would recommend the pre-crimped cables:<br />
